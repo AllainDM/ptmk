@@ -1,0 +1,11 @@
+# Разработка
+venv
+.idea
+__pycache__
+
+
+# Конфиг
+config.py
+
+# БД
+staff.db
